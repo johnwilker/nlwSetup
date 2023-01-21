@@ -38,6 +38,8 @@ This project was developed using the following technologies:
 
 Habits tracker it's an app to help people to track the habits.
 
+- [Visit the online project](https://johnwilker.github.io/nlwSetup)
+
 ## 🔖 Layout
 
 You can view the project layout trought [this link](<https://www.figma.com/file/KrGTppw9xhoaO5TgCAXR1v/Habits-(e)-(Community)?t=6jOC28bFGvcsaoW8-1>). Remembering that you need to have a [Figma](http://figma.com/) acount to access it.
